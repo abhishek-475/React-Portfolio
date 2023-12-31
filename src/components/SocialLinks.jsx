@@ -44,7 +44,7 @@ const SocialLinks = () => {
         Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href:"./Abhishek Pavithran.pdf",
+      href:"./_Abhishek Pavithran Resume.pdf",
       style: "rounded-tr-md",
       download: true,
     },
